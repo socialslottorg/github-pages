@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Socialslot//EventScheduler//EN
+BEGIN:VEVENT
+UID:26ceac73-45b7-4097-aa3d-af379cbda490@glideapp.com
+DTSTAMP:29/12/2024, 3:14:35
+DTSTART:20250215T130000Z
+DTEND:20250215T173000Z
+SUMMARY:Rhythm ‘n’ Bakes - Valentine’s Edition
+DESCRIPTION:This event includes Rhythm ‘n’ Bakes - Valentine’s Edition at Luminary Bakery in Camden, featuring smooth R&B tunes, baking, music, games, unlimited food and drinks, and good vibes, perfect for couples, friends, or solo attendees.
+LOCATION:E15 9GH
+END:VEVENT
+END:VCALENDAR
